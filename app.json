@@ -1,0 +1,12 @@
+{
+  "name": "my-task",
+  "displayName": "my-task",
+  "expo": {
+    "name": "my-task",
+    "slug": "my-task",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
