@@ -4,9 +4,11 @@
   "expo": {
     "name": "my-task",
     "slug": "my-task",
-    "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.hamdaoui.mytask"
+    }
   }
 }
